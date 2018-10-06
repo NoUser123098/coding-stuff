@@ -1,3 +1,3 @@
-def make {
-  return "make"
+def hello {
+  println("Hello, world!")
 }
